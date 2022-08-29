@@ -1,0 +1,8 @@
+name: farmOS UI Layout Builder
+description: Provides integration of farmOS with Layout Builder.
+type: module
+package: farmOS UI - Experimental
+core_version_requirement: ^9
+dependencies:
+  - drupal:layout_builder
+  - lb_routing:lb_routing

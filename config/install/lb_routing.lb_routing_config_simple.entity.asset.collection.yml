@@ -1,0 +1,24 @@
+_core:
+  default_config_hash: XZTKCN4rVIiAg2hasOWwdv5NRaRJo2maWdlHhfW7qnY
+sections:
+  -
+    layout_id: layout_twocol
+    layout_settings:
+      label: ''
+    components:
+      dd7a75c8-5e45-48c9-a114-e9ab14c44f81:
+        uuid: dd7a75c8-5e45-48c9-a114-e9ab14c44f81
+        region: top
+        configuration:
+          id: 'views_block:farm_asset-assets_list_block'
+          label: ''
+          label_display: visible
+          provider: views
+          views_label: ''
+          items_per_page: none
+          context_mapping: {  }
+        weight: 0
+        additional:
+          layout_builder_styles_style:
+            - ''
+    third_party_settings: {  }
